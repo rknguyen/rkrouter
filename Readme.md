@@ -1,6 +1,6 @@
 # RK Router 🚀
 About this technical:
-- RKRouter is a lightweight package for create RESTful API server. 
+- RKRouter is a lightweight package to create RESTful API server. 
 - Code-style spirited by React.
 - Written by RK Nguyen. (fb/rknguyen for support)
 
